@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "D:\\DAIHOC\\HK242\\DLCN\\BTL\\BTL_DLCN\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{764EC0E9-E367-47EB-B7EF-CD0FDB0D8D98}|BTL_DLCN.csproj|D:\\DAIHOC\\HK242\\DLCN\\BTL\\BTL_DLCN\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{764EC0E9-E367-47EB-B7EF-CD0FDB0D8D98}|BTL_DLCN.csproj|d:\\daihoc\\hk242\\dlcn\\btl\\btl_dlcn\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{764EC0E9-E367-47EB-B7EF-CD0FDB0D8D98}|BTL_DLCN.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{764EC0E9-E367-47EB-B7EF-CD0FDB0D8D98}|BTL_DLCN.csproj|D:\\DAIHOC\\HK242\\DLCN\\BTL\\BTL_DLCN\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{764EC0E9-E367-47EB-B7EF-CD0FDB0D8D98}|BTL_DLCN.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{764EC0E9-E367-47EB-B7EF-CD0FDB0D8D98}|BTL_DLCN.csproj|D:\\DAIHOC\\HK242\\DLCN\\BTL\\BTL_DLCN\\crc_16.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{764EC0E9-E367-47EB-B7EF-CD0FDB0D8D98}|BTL_DLCN.csproj|solutionrelative:crc_16.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{764EC0E9-E367-47EB-B7EF-CD0FDB0D8D98}|BTL_DLCN.csproj|d:\\daihoc\\hk242\\dlcn\\btl\\btl_dlcn\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{764EC0E9-E367-47EB-B7EF-CD0FDB0D8D98}|BTL_DLCN.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{764EC0E9-E367-47EB-B7EF-CD0FDB0D8D98}|BTL_DLCN.csproj|D:\\DAIHOC\\HK242\\DLCN\\BTL\\BTL_DLCN\\frame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -40,13 +40,14 @@
               "RelativeDocumentMoniker": "Frame.cs",
               "ToolTip": "D:\\DAIHOC\\HK242\\DLCN\\BTL\\BTL_DLCN\\Frame.cs",
               "RelativeToolTip": "Frame.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-12T15:45:26.935Z"
+              "WhenOpened": "2025-04-12T15:45:26.935Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "CRC_16.cs",
               "DocumentMoniker": "D:\\DAIHOC\\HK242\\DLCN\\BTL\\BTL_DLCN\\CRC_16.cs",
               "RelativeDocumentMoniker": "CRC_16.cs",
@@ -65,14 +66,14 @@
               "RelativeDocumentMoniker": "Form1.cs",
               "ToolTip": "D:\\DAIHOC\\HK242\\DLCN\\BTL\\BTL_DLCN\\Form1.cs",
               "RelativeToolTip": "Form1.cs",
-              "ViewState": "AgIAAAgBAAAAAAAAAAAUwB8BAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAABAAAAAAAAAAAjwAYBAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-03T07:35:25.081Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "D:\\DAIHOC\\HK242\\DLCN\\BTL\\BTL_DLCN\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
